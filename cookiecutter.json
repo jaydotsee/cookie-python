@@ -1,8 +1,8 @@
 {
     "project_name": "My Python Project",
     "project_description": "Description in less than 20 words",
-    "author": "Carlos Grande",
-    "github_user": "charlstown",
+    "author": "JC de Villiers",
+    "github_user": "jaydotsee",
     "repository_name": "{{ cookiecutter.project_name.strip().lower().replace(' ', '-') }}",
     "package_name": "{{ cookiecutter.project_name.strip().lower().replace(' ', '-').replace('-', '_') }}",
     "repository_url": "https://github.com/{{ cookiecutter.github_user }}/{{ cookiecutter.repository_name }}",
